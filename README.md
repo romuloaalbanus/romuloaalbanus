@@ -1,6 +1,6 @@
 ### Hello World,
 I'm Romulo Albanus.
-[<img align="left" alt="romuloaalbanus | Gmail" width="22px" src="./mail.htm" />][gmail]
+[<img align="left" alt="romuloaalbanus | Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="romulo-albanus | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 
 
