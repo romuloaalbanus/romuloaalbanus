@@ -11,20 +11,19 @@
 <br/>
 <br/>
 
-### **I'm Web Developer Full-Stack!**
+### **Web Developer Full-Stack!**
 
 🇧🇷 I'm a brazilian developer and I started my studies in Architecture and Urbanism.
 
-💻 I worked as CAD Designer for 4 years and despite being an interesting area,
-I decided not only change my career but also my country.
+💻  I worked as a CAD Designer for 4 years, and despite being an interesting area, I decided to not only change my career but also my country.
 
+🇩🇪 I've been living in Aachen - Germany for the past 2 years, and I chose to focus my studies on programming the most effective way possible, which was to do 
+<img src="https://media.giphy.com/media/iDTkddqjsCJSpXgBzD/giphy.gif" width="20px"> Ironhack's Bootcamp Web Developer.
 
-🇩🇪 I've been living in Aachen - Germany for the past 2 years and I decided to focus my studies in programmation the most effective way possible, which was to do   <img src="https://media.giphy.com/media/iDTkddqjsCJSpXgBzD/giphy.gif" width="20px"> Ironhack's Bootcamp Web Developer.
+<!--img src="https://media.giphy.com/media/cIbeGOBApvS2pB4zj5/giphy.gif" width="30px"-->
+I learned programming in depth and I was fascinated with the world of technology.
 
-<img src="https://media.giphy.com/media/cIbeGOBApvS2pB4zj5/giphy.gif" width="30px"> I recently graduated at Ironhack and I learned programming in depth.
-I was fascinated with the world of technology.
-
-### Fell free to check out my top 3 projects:
+### Feel free to check out my top 3 projects:
 
 - [No Drama Llama - Game](https://romuloaalbanus.github.io/noDramaLlama/) <img src="https://media.giphy.com/media/Xfhqpe5mqTKld4UaYt/giphy.gif" width="60px">
 - [Bored - App](https://bored-project.netlify.app/) <img src="https://media.giphy.com/media/5toDkVpRmmqtWD0orR/giphy.gif" width="50px">
