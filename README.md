@@ -5,6 +5,7 @@
 
 [<img align="left" alt="romuloaalbanus | Outlook" width="22px" src="./outlook.png" />][outlook]
 [<img align="left" alt="romulo-albanus | LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
+[<img align="left" alt="romuloalbanus | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
 
 <br/>
 <br/>
@@ -85,6 +86,7 @@ if you want, check out my top 3 projects:
 
 [linkedin]: https://www.linkedin.com/in/romulo-albanus/
 [outlook]: mailto:romuloaalbanus@hotmail.com
+[whatsapp]: http://api.whatsapp.com/send?phone=4915257861206
 
 
 <!--
