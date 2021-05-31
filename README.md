@@ -5,7 +5,7 @@
 
 [<img align="left" alt="romuloaalbanus | Outlook" width="22px" src="./outlook.png" />][outlook]
 [<img align="left" alt="romulo-albanus | LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
-[<img align="left" alt="romuloalbanus | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
+[<img align="left" alt="romuloalbanus | Whatsapp" width="22px" src="./whatsapp.png" />][whatsapp]
 
 <br/>
 <br/>
