@@ -1,5 +1,7 @@
 ## Hello World, I'm Romulo Albanus.
+
 <hr/>
+
 [<img align="left" alt="romuloaalbanus | Outlook" width="22px" src="./outlook.png" />][outlook]
 [<img align="left" alt="romulo-albanus | LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
 
