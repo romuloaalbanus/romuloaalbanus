@@ -27,6 +27,61 @@ if you want, check out my top 3 projects:
 ![Romulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romuloaalbanus&theme=slateorange&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloaalbanus&theme=slateorange&layout=compact)
 
+### My Stack
+
+<!--https://simpleicons.org-->
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+
+#### Languages:
+![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+
+#### Application and Data:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+![ChartJS](https://img.shields.io/badge/ChartJS-FF6384?style=flat&logo=chart.js&logoColor=white)
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<br/>
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flate&logo=jasmine&logoColor=white)
+
+
+#### Utilities:
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)
+
+
+#### DevOps:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+
+#### Business:
+
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+
+
+<!--[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)-->
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/romuloaalbanus/romuloaalbanus?color=green" alt="Visitors badge" />
+ </a>
+
 
 [linkedin]: https://www.linkedin.com/in/romulo-albanus/
 [outlook]: mailto:romuloaalbanus@hotmail.com
