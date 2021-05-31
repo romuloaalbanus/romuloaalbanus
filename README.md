@@ -18,9 +18,15 @@ I've been living in Aachen – Germany for 2 years and decided to deepen my stud
 if you want, check out my top 3 projects:
 
 
-- [No Drama Llama - Game](https://romuloaalbanus.github.io/noDramaLlama/)
-- [Bored - App](https://bored-project.netlify.app/)
-- [Anis Berlin - Virtual Store](https://anisberlin.netlify.app/)
+- [No Drama Llama - Game](https://romuloaalbanus.github.io/noDramaLlama/) <img src="https://media.giphy.com/media/Xfhqpe5mqTKld4UaYt/giphy.gif" width="60px">
+- [Bored - App](https://bored-project.netlify.app/) <img src="https://media.giphy.com/media/5toDkVpRmmqtWD0orR/giphy.gif" width="60px">
+- [Anis Berlin - Virtual Store](https://anisberlin.netlify.app/) <img src="https://media.giphy.com/media/h4OdlzYgAkStVkAjkb/giphy.gif" width="60px">
+
+### GitHub Stats
+
+![Romulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romuloaalbanus&theme=slateorange&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloaalbanus&theme=slateorange&layout=compact)
+
 
 [linkedin]: https://www.linkedin.com/in/romulo-albanus/
 [outlook]: mailto:romuloaalbanus@hotmail.com
