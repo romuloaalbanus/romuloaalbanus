@@ -6,6 +6,7 @@
 [<img align="left" alt="romuloaalbanus | Outlook" width="22px" src="./outlook.png" />][outlook]
 [<img align="left" alt="romulo-albanus | LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
 [<img align="left" alt="romuloalbanus | Whatsapp" width="22px" src="./whatsapp.png" />][whatsapp]
+[<img align="left" alt="romuloalbanus | Instagram" width="22px" src="./instagram.png" />][instagram]
 
 <br/>
 <br/>
@@ -89,6 +90,7 @@ Fell free to check out my top 3 projects:
 [linkedin]: https://www.linkedin.com/in/romulo-albanus/
 [outlook]: mailto:romuloaalbanus@hotmail.com
 [whatsapp]: http://api.whatsapp.com/send?phone=4915257861206
+[instagram]: https://www.instagram.com/romuloalbanus/
 
 
 <!--
