@@ -1,9 +1,25 @@
-## Hello World, I'm Romulo Albanus.
+### Hello World. <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="75px">
 
-<hr/>
+## I'm Romulo Albanus.
+
 
 [<img align="left" alt="romuloaalbanus | Outlook" width="22px" src="./outlook.png" />][outlook]
 [<img align="left" alt="romulo-albanus | LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
+
+<br/>
+<br/>
+
+### **I'm Web Developer Full-Stack!**
+
+I graduated from Ironhack as Full-Stack Developer. I am from Brazil but for the past two years I've been living in Aachen – Germany.
+I've learned the follow technologies:
+- JavaScript (ES6)
+- React
+- Axios
+- HTML5 / CSS
+- ExpressJS
+- NodeJS
+- MongoDB
 
 
 [linkedin]: https://www.linkedin.com/in/romulo-albanus/
