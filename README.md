@@ -9,18 +9,18 @@
 <br/>
 <br/>
 
-### **I'm Web Developer Full-Stack!**
+### **I am Web Developer Full-Stack!**
 
-I graduated from Ironhack as Full-Stack Developer. I am from Brazil but for the past two years I've been living in Aachen – Germany.
-I've learned the follow technologies:
-- JavaScript (ES6)
-- React
-- Axios
-- HTML5 / CSS
-- ExpressJS
-- NodeJS
-- MongoDB
+I recently got to know programming in depth and was fascinated with the world of technology.
+I started my studies in Architecture and Urbanism and worked as
+Computer Aided Design Designer for 4 years. Despite being an interesting area, I decided to change my career and also my country.
+I've been living in Aachen – Germany for 2 years and decided to deepen my studies in the most submerged way possible, which was to do Ironhack's Bootcamp Web Developer.
+if you want, check out my top 3 projects:
 
+
+- [No Drama Llama - Game](https://romuloaalbanus.github.io/noDramaLlama/)
+- [Bored - App](https://bored-project.netlify.app/)
+- [Anis Berlin - Virtual Store](https://anisberlin.netlify.app/)
 
 [linkedin]: https://www.linkedin.com/in/romulo-albanus/
 [outlook]: mailto:romuloaalbanus@hotmail.com
