@@ -1,4 +1,4 @@
-### Hello World. <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="75px">
+### Hello World <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="75px">
 
 ## I'm Romulo Albanus.
 
@@ -12,15 +12,17 @@
 
 ### **I am Web Developer Full-Stack!**
 
-I recently got to know programming in depth and was fascinated with the world of technology.
-I started my studies in Architecture and Urbanism and worked as
-Computer Aided Design Designer for 4 years. Despite being an interesting area, I decided to change my career and also my country.
-I've been living in Aachen – Germany for 2 years and decided to deepen my studies in the most submerged way possible, which was to do Ironhack's Bootcamp Web Developer.
-if you want, check out my top 3 projects:
+I'm a brazilian developer and I started my studies in Architecture and Urbanism.
+I worked as CAD Designer for 4 years and despite being an interesting area, I decided not only change my career but also my country.
+I've been living in Aachen - Germany for the past 2 years and I decided to focus my studies in programmation the most effective way possible, which was to do Ironhack's Bootcamp Web Developer.
 
+<img src="https://media.giphy.com/media/cIbeGOBApvS2pB4zj5/giphy.gif" width="30px"> I recently graduated at Ironhack and I learned programming in depth.
+I was fascinated with the world of technology.
+
+Fell free to check out my top 3 projects:
 
 - [No Drama Llama - Game](https://romuloaalbanus.github.io/noDramaLlama/) <img src="https://media.giphy.com/media/Xfhqpe5mqTKld4UaYt/giphy.gif" width="60px">
-- [Bored - App](https://bored-project.netlify.app/) <img src="https://media.giphy.com/media/5toDkVpRmmqtWD0orR/giphy.gif" width="60px">
+- [Bored - App](https://bored-project.netlify.app/) <img src="https://media.giphy.com/media/5toDkVpRmmqtWD0orR/giphy.gif" width="50px">
 - [Anis Berlin - Virtual Store](https://anisberlin.netlify.app/) <img src="https://media.giphy.com/media/h4OdlzYgAkStVkAjkb/giphy.gif" width="60px">
 
 ### GitHub Stats
